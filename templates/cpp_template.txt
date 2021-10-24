@@ -1,0 +1,36 @@
+#include "*NAME*.hpp"
+
+/*--------------------------------Coplien form--------------------------------*/
+*NAME*::*NAME*()
+{
+	/*Constructor*/
+}
+
+*NAME*::~*NAME*()
+{
+	/*Destructor*/
+}
+
+*NAME*::*NAME*(const *NAME* &ref)
+{
+	/*Copy constructor*/
+	*this = ref;
+}
+
+*NAME*&	*NAME*::operator=(const *NAME* &ref)
+{
+	/*Assignation operator*/
+	if (this != &ref)
+	{
+		/* assign member variables*/
+	}
+	return *this;
+}
+/*--------------------------------Coplien form--------------------------------*/
+
+std::ostream&	operator<<(std::ostream &out, const *NAME* &ref)
+{
+	/*Output operator*/
+	/*out << *NAME*;
+	return out;*/
+}

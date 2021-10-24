@@ -1,0 +1,24 @@
+#ifndef *NAME*_HPP
+# define *NAME*_HPP
+
+# include <iostream>
+
+class *NAME*
+{
+	private:
+		/*--------------------------Member variables--------------------------*/
+
+	public:
+		/*----------------------------Coplien form----------------------------*/
+		*NAME*();
+		*NAME*(const *NAME* &ref);
+		*NAME*& operator=(const *NAME* &ref);
+		~*NAME*();
+
+		/*--------------------------Member functions--------------------------*/
+
+};
+
+std::ostream&	operator<<(std::ostream &out, const *NAME* &ref);
+
+#endif
