@@ -32,7 +32,7 @@ With this tool i'm sure not to make any messy mistakes that could have been prev
 [(Back to top)](#table-of-contents)
 
 I have my alias set to **ncpp**.
-ncpp --makefile=**executable name** file1 file2 ...
+ncpp --makefile=**executable_name** file1 file2 ...
 
 # Footer
 [(Back to top)](#table-of-contents)
