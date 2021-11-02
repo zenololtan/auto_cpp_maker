@@ -10,7 +10,6 @@ With this tool i'm sure not to make any messy mistakes that could have been prev
 
 # Table of contents
 
-- [Auto cpp tool](#Auto cpp tool)
 - [Table of contents](#Table-of-contents)
 - [Installation](#Installation)
 - [Usage](#Usage)
@@ -25,7 +24,7 @@ With this tool i'm sure not to make any messy mistakes that could have been prev
 1. Clone this repository
 2. Make an alias for the python script and put it in your zsh or zprofile
 <pre>
-    alias <b>alias name</b>="python <b>insert path to repo</b>/<b>repo name</b>/auto_cpp.py"
+    alias <b>alias_name</b>="python <b>insert_path_to_repo</b>/<b>repo_name</b>/auto_cpp.py"
 </pre>
 3. Source the file you added the alias to
 
