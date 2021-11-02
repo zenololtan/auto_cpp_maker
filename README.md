@@ -10,7 +10,7 @@ With this tool i'm sure not to make any messy mistakes that could have been prev
 
 # Table of contents
 
-- [Project Title](#Auto cpp tool)
+- [Project Title](#project-title)
 - [Table of contents](#Table-of-contents)
 - [Installation](#Installation)
 - [Usage](#Usage)
@@ -19,8 +19,8 @@ With this tool i'm sure not to make any messy mistakes that could have been prev
 # Installation
 [(Back to top)](#table-of-contents)
 
-### Dependincies
-- Python has to be installed
+##### Dependincies
+ - Python has to be installed
 
 1. Clone this repository
 2. Make an alias for the python script and put it in your zsh or zprofile
